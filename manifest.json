@@ -1,0 +1,17 @@
+{
+
+    "name": "Catalogo de videos Ejemplo",
+    "short_name": "CatalagoVideos",
+    "description": "Aplicacion que recopila una serie de videos",
+    "start_url": "../paginaCatalogoVideos/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2196F3",
+    "icons": [
+      {
+        "src": "./img/React.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
